@@ -4,6 +4,9 @@ deploy in the dev env
 deployement5 master
 deployemnt4
 deployement4
-deploy to staging
+deploy to staging env
+echo good job.
+tested and accepted
+
 
 
