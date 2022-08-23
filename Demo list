@@ -1,6 +1,8 @@
-osa
-obi
-paul
-kim
-kila
-huno
+print ('osa')
+print  ('obi')
+print ('paul')
+print ('kim')
+print ('kila')
+print ('huno')
+# bugs remove
+print ("hello team $name you're part of the team")
